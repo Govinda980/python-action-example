@@ -1,0 +1,2 @@
+Hi I am trying to count the word which contains vowel letter kwr.
+i will do it from the file read and splitting swr pt lt
